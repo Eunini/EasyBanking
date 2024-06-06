@@ -25,14 +25,14 @@ export const features = [
     icon: star,
     title: "Rewards",
     content:
-      "The best credit cards offer some tantalizing combinations of promotions and prizes",
+      "Modern credit cards tailor reward programs to match your spending habits. Whether you spend more on groceries, travel, or dining out.",
   },
   {
     id: "feature-2",
     icon: shield,
     title: "100% Secured",
     content:
-      "We take proactive steps make sure your information and transactions are secure.",
+      "We implement advanced measures to safeguard your information and secure your transactions.",
   },
   {
     id: "feature-3",
